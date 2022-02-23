@@ -2,8 +2,8 @@ These are sample Python scripts used to process CalTPA data.
 
 We start with raw .asc files containing sample, non-real data.
 
-The notebook "caltpa_single_file.ipynb" is a good example of processing a single CalTPA file.
-The notebook "caltpa_multiple_files.ipynb" combines multiple files into one .csv file, then cleans the data.
+- The notebook "caltpa_single_file.ipynb" is a good example of processing a single CalTPA file.
+- The notebook "caltpa_multiple_files.ipynb" combines multiple files into one .csv file, then cleans the data.
 
 How to use this notebook?
 - You can run each cell separately.

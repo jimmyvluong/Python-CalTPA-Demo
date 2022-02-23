@@ -1,0 +1,5 @@
+Reporting Date,Field Code,First Name,Middle Initial,Number of Attempts,Cycle Passing Status,Cycle Total Score,Rubric 1,Rubric 2,Rubric 3,Rubric 4,Rubric 5,Rubric 6,Rubric 7,Rubric 8,Rubric 9,Institution,Preparation Program,Field Specialty,campusID
+20150302,041,ASPENS,L,2,P,23,3,4,5,3,6,3,4,3,,102,ES,24,12
+20150508,162,SIERRA,S,5,NS,0,A9,A9,A9,A9,A9,A9,A9,A99,A99,102,SS,24,12
+20150302,041,JANE12,L,1,P,23,3,3,3,2,3,3,3,3,,101,ES,24,11
+20150508,162,JOHN12,S,1,NS,0,A9,A9,A9,A9,A9,A9,A9,A99,A99,101,SS,24,11

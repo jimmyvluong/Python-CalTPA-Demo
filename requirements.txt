@@ -1,4 +1,3 @@
 pandas==1.3.5
 numpy
-os
 glob

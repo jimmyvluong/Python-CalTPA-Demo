@@ -9,3 +9,5 @@ How to use this notebook?
 - You can run each cell separately.
 - Some cells will have output, some will not.
 - df.head() statements are used to display the DataFrame for you to inspect.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jimmyvluong/Python-CalTPA-Demo/HEAD)
